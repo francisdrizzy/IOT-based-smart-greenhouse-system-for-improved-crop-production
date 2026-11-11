@@ -1,4 +1,4 @@
-# Macdonald Smart Greenhouse Prototype
+# Francis Smart Greenhouse Prototype
 
 A Flask dashboard and Arduino Uno prototype with USB-serial controls for an LED grow-light indicator, a servo-driven vent demonstrator, and a water sensor.
 
